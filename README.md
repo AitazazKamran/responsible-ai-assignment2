@@ -1,4 +1,4 @@
-# Responsible AI Assignment 2
+# Responsible-AI-Lifecycle
 
 This repository contains a complete end-to-end workflow for building, stress-testing, auditing, mitigating, and operationalizing a toxicity classifier on Jigsaw-style data.
 
